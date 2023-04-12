@@ -1,0 +1,104 @@
+.couleur0{
+    background-color:#8577B7;
+    
+}
+.couleur1{
+    background-color:#80baa9;
+}
+
+.couleur2{
+    background-color: rgb(210, 144, 30);
+}
+ 
+.couleur4{
+    background-color: #4c7249;
+}
+
+.couleur5{
+    background-color: #ee9b86;
+}
+
+.couleur6{
+    background-color: #F0C9A7;
+}
+
+.couleur7{
+    background-color:#F2F9CC ;
+}
+
+.couleur8{
+    background-color:#E3D2A9;
+}
+.couleur9{
+    background-color:#518099;
+}
+.couleur10{
+    background-color:#aa6e76 ;
+}
+.couleur11{
+    background-color:#88555C;
+}
+.img{
+    margin: 20px;
+
+}
+
+
+td{
+    font-size: 12px;
+    border: 2px white;
+}
+table tr td{
+    border: 2px white;
+}
+
+.table {
+    text-align: center;
+    display: flex;
+    justify-content: center;
+}
+.table h1{
+    font-size:
+}
+.img {
+    display: flex;
+    flex-direction: column;
+}
+.image{
+    width: 120px;
+    border-radius: 100%;
+}
+.img{
+    display: flex;
+    margin-left: 80%;
+}
+@media screen and (max-width:1115px){
+    table tr td{
+        font-size: 10px;
+    }}
+    @media screen and (max-width:945px){
+        table tr td{
+            font-size: 8px;
+        }
+    }  
+      @media screen and (max-width:770px){
+        table tr td{
+            font-size: 6px;
+        }
+    }
+    @media screen and (max-width:609px){
+        table tr td{
+            font-size: 4px;
+        }
+    }
+    @media screen and (max-width:580x){
+        table tr td{
+            font-size: 3px;
+        }
+    }
+    @media screen and (max-width:401px){
+        table tr td{
+            font-size: 2px;
+        }
+    }
+    
